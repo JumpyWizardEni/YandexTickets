@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tickets</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favourite">Favourite</string>
+    <string name="All">Symbols</string>
+</resources>

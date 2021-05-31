@@ -9,3 +9,7 @@ This is a test study project to Yandex Mobile School.
 - Room
 - Retrofit
 - MVVM architecture
+![Main screen](screenshots/screenshot_2.jpg)
+![Favourite screen](screenshots/screenshot_3.jpg)
+![Search](screenshots/screenshot_5.jpg)
+![Additional info](screenshots/screenshot_4.jpg)
